@@ -1,4 +1,4 @@
-# :satellite: 인터넷통신설계 (Internet Communication Design Class)
+# :satellite: 인터넷통신설계 (Internet Communication Design)
 
 
 
