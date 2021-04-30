@@ -32,8 +32,8 @@
 
 
 
-|                         차량 접근 전                         |
-| :----------------------------------------------------------: |
-| <img src="images/result1.png" align="left" style="width: 800px" /> |
-| <img src="images/result2.png" align="left" style="width: 800px" /> |
+|                        차량 접근 전                        |
+| :--------------------------------------------------------: |
+| <img src="/images/result1.png" width="800" height="400" /> |
+| <img src="/images/result2.png" width="800" height="400" /> |
 
