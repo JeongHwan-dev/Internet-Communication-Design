@@ -4,15 +4,15 @@
   <br />
   <br />
     <h1>:satellite: 인터넷통신설계 (Internet Communication Design)</h1>
-  <br />
-    <h1>주차장 출입문 관리 시스템</h1>
+    <h1>주차장 출입문 관리 시스템</h1>  
+    <br />
 </div>
 
 ## 목차
 
-1. [프로젝트 목적](#1-프로젝트 목적)
-2. [기술 스택](#2-기술 스택)
-3. [기능 소개](#3-기능 소개)
+1. [프로젝트 목적](#1-프로젝트-목적)
+2. [기술 스택](#2-기술-스택)
+3. [기능 소개](#3-기능-소개)
 4. [실행화면](#4-실행화면)
 
 <br />
@@ -23,13 +23,12 @@
 
 <br />
 
-## 2. 사용 언어
+## 2. 기술 스택
 
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
-    </a>
-</p>
+**IoT**
+
+- ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white)
+- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?&logo=raspberry-pi&logoColor=white)
 
 <br />
 
